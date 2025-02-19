@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a second-year PhD student in Linguistics at Yale University, where I explore the intricate connections between language structure and meaning. My academic journey began with a Bachelor’s degree in Linguistics & Yoruba Language, followed by a Master’s degree in Yoruba Language from the University of Lagos, Nigeria. These foundational experiences deepened my passion for the morphosyntax and semantics of West African languages, particularly Yoruba, Igbo, and Ogugbe.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research is driven by a fascination with formal semantics and the interplay between natural languages and mathematical expressions. I am currently working under the guidance of Professor Veneeta Dayal on my first Qualifying Paper, which investigates **Bare Nouns and Definiteness in Yoruba**. This project reflects my broader interest in how languages encode meaning and how these systems can be formally modeled.
+
+Through my work, I aim to contribute to the understanding of understudied languages and bridge gaps between linguistic theory and the rich diversity of human languages.
