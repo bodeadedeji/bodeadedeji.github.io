@@ -9,5 +9,5 @@ author_profile: true
 I am open to discussing anything **LINGUISTICS**. I love teaching and talking about languages.
 
 **What's New?**
-- Backward Association of Exclusive Particles and Scope freezing (*with* Ka Fai Yip & Daniel Aremu)
+- Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
 
