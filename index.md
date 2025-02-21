@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+classes: wide
 ---
 
 I am open to discussing anything **LINGUISTICS**. I love teaching and talking about languages.
