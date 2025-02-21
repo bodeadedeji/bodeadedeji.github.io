@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Bode Adedeji"
   avatar : "/assets/images/BODEPRF.jpg"
-  bio    : "I am a second-year PhD linguistics student at Yale University. I am interested in the morphosyntax and semantics of nominal expressions of West African languages (Yoruba, Igbo, and Ogugbe)."
+  bio    : "Morphosyntax, semantics, West African languages (Yorùbá, Igbo, and Ogugbe)."
   links: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
