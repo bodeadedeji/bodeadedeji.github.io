@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-ui_text:
-  font: Open Sans  # Replace with your chosen font name
-  font_heading: Open Sans  # Replace with your chosen font name
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">  
+
 title: Bode Adedeji
 email: olabode.adedeji@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
