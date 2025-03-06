@@ -24,8 +24,8 @@ github_username: username
 minimal_mistakes_skin: mint
 search: true
 ui_text:
-  font: "Open Sans"  # Replace with your chosen font name
-  font_heading: "Open Sans"  # Replace with your chosen font name
+  font: Open Sans  # Replace with your chosen font name
+  font_heading: Open Sans  # Replace with your chosen font name
 
 # Build settings
 markdown: kramdown
