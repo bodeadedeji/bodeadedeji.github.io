@@ -11,4 +11,5 @@ I am open to discussing anything **LINGUISTICS**. I love teaching and talking ab
 
 **What's New?**
 - Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
+- (In)Definiteness and the Yorùbá Bare Noun
 
