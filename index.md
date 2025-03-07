@@ -9,7 +9,12 @@ classes: wide
 
 I am open to discussing anything **LINGUISTICS**. I love teaching and talking about languages.
 
+**Ongoing**
+- (In)Definiteness and the Yorùbá Bare Noun
+  
 **What's New?**
 - Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
-- (In)Definiteness and the Yorùbá Bare Noun
+- Are Splitting Verbs in Yorùbá Discontinuous Heads? (*with* Ka Fai Yip)
+- On the Syntax of Yorùbá Splitting Verb Constructions (Accepted for publication)
+- A Quantifier-Particle Approach to Exclusive Focus Particles in Yorùbá (*with* Ka Fai Yip)
 
