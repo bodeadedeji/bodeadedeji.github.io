@@ -17,6 +17,8 @@ I am open to discussing anything **LINGUISTICS**. I love teaching and talking ab
 **What's New?**
 - Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
 - Are Splitting Verbs in Yorùbá Discontinuous Heads? (*with* Ka Fai Yip)
+
+**2024**
 - On the Syntax of Yorùbá Splitting Verb Constructions (Accepted for publication)
 - A Quantifier-Particle Approach to Exclusive Focus Particles in Yorùbá *with* [Ka Fai Yip](https://kafai-yip.github.io/) 
  [handout](https://bodeadedeji.github.io/assets/docs/ACAL-55_only_handout.pdf)
