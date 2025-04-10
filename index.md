@@ -12,7 +12,7 @@ I am open to discussing anything **LINGUISTICS**. I love teaching and talking ab
 **2025**
 
 **Ongoing**
-- (In)Definiteness and the Yorùbá Bare Noun
+- Definiteness and the Yorùbá Bare Noun
   
 **What's New?**
 - Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
