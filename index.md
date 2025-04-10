@@ -13,6 +13,7 @@ I am open to discussing anything **LINGUISTICS**. I love teaching and talking ab
 
 **Ongoing**
 - Definiteness and the Yorùbá Bare Noun
+- The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
   
 **What's New?**
 - Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
