@@ -9,6 +9,7 @@ classes: wide
 
 I am open to discussing anything **LINGUISTICS**. I love teaching and talking about languages.
 
+**2025**
 **Ongoing**
 - (In)Definiteness and the Yorùbá Bare Noun
   
