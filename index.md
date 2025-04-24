@@ -7,7 +7,10 @@ author_profile: true
 classes: wide
 ---
 
-I am open to discussing anything **LINGUISTICS**. I love teaching and talking about languages.
+**I am a second-year PhD candidate in the Department of Linguistics at Yale University**.
+My research focuses on the syntax and semantics of **West African languages**, with a particular interest in the morphosyntax of bare nominals and their (in)definite interpretations. Currently, I work primarily on Yorùbá and Igbo.
+
+
 
 **2025**
 
