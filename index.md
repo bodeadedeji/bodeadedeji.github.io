@@ -19,9 +19,8 @@ My research focuses on the syntax and semantics of **West African languages**, w
 - Definiteness and the Yorùbá Bare Noun
 - The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
   
-**What's New?**
-- Backward Association of Exclusive Particles and Scope Freezing (*with* Ka Fai Yip & Daniel Aremu)
-- Are Splitting Verbs in Yorùbá Discontinuous Heads? (*with* Ka Fai Yip)
+**What's New**
+- Backward Association of Exclusive Particles and Scope Freezing (*with* [Ka Fai Yip](https://kafai-yip.github.io/) & Daniel Aremu)
 
 **2024**
 - On the Syntax of Yorùbá Splitting Verb Constructions (Accepted for publication)
