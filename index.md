@@ -15,6 +15,7 @@ My research focuses on the syntax and semantics of **West African languages**, w
 **2025**
 
 **Ongoing**
+- Are splitting verbs in Yorùbá discontinuous heads? Poster @ [ACAL -56] (https://sites.google.com/umn.edu/acal56/home?authuser=0) *with* [Ka Fai Yip](https://kafai-yip.github.io/)
 - Definiteness and the Yorùbá Bare Noun
 - The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
   
