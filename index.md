@@ -15,6 +15,8 @@ My research focuses on the syntax and semantics of **West African languages**, w
 **2025**
 
 **Ongoing**
+- The Syntax of Degree/Intensifiers in Yorùbá: A First Attempt<img width="468" height="49" alt="image" src="https://github.com/user-attachments/assets/851de6ce-7831-43ad-910a-527cb0cc4fb3" />
+ 
 - Are splitting verbs in Yorùbá discontinuous heads? Poster @ [ACAL -56] (https://sites.google.com/umn.edu/acal56/home?authuser=0) *with* [Ka Fai Yip](https://kafai-yip.github.io/)
 - Definiteness and the Yorùbá Bare Noun
 - The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
