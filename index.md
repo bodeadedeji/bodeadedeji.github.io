@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-**I am a second-year PhD candidate in the Department of Linguistics at Yale University**.
+**I am a third-year PhD candidate in the Department of Linguistics at Yale University**.
 My research focuses on the syntax and semantics of **West African languages**, with a particular interest in the morphosyntax of bare nominals and their (in)definite interpretations. Currently, I work primarily on Yorùbá, Igbo and Nigerian Pidgin (Naija).
 
 
