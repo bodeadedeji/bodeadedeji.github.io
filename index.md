@@ -10,13 +10,11 @@ classes: wide
 **I am a third-year PhD candidate in the Department of Linguistics at Yale University**.
 My research focuses on the syntax and semantics of **West African languages**, with a particular interest in the morphosyntax of nominals expressions and the semantics of (in)definiteness, and number marking. Currently, I work primarily on Yorùbá, Igbo and Nigerian Pidgin (Naija).
 
+**Upcoming Talks**
 
-
-**2025**
 
 **Ongoing**
 - The Syntax of Degree/Intensifiers in Yorùbá: A First Attempt
- 
 - Are splitting verbs in Yorùbá discontinuous heads? Poster @ [ACAL -56] *with* [Ka Fai Yip](https://kafai-yip.github.io/)
 - Definiteness and the Yorùbá Bare Noun
 - The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
