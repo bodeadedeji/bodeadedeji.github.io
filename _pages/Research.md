@@ -1,5 +1,5 @@
 ---
-permalink: /Yoruba/
+permalink: /Research/
 title: "Research"
 classes: wide
 ---
