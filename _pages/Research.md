@@ -1,3 +1,11 @@
+---
+permalink: /Yoruba/
+title: "Research"
+classes: wide
+---
+
+
+
 **Publications**
 
 2024			Title:  On the Syntax of Yoruba Splitting Verb Constructions. Opanbata: Journal of African Studies. 
