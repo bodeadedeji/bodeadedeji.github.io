@@ -37,4 +37,4 @@ Talks:
 2019: 	Ẹ̀rọ Alátagbà àti Èdè Yorùbá: Ibo ni Iṣẹ́ dé Dúró? (Social media and the Yorùbá language: Research so far) 
         49th International Conference of the Yoruba Studies Association of Nigeria, Olabisi Onabanjo University, Nigeria.
 
-2019: Master's Research work [PDF] (assets/docs/thesis combined ALL PAGES.pdf)
+2019: Master's Research work [Download my paper (PDF)](docs/thesis combined ALL PAGES.pdf)
