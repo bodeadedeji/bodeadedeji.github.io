@@ -10,6 +10,7 @@ I am currently working on my second Qualifying Paper with Prof. Claire Bowern an
 
 **UPCOMING TALKS**
 
+2026, May 21-23-  A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. Accepted- 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
 
 **Email**: olabode.adedeji@yale.edu/
            bodegreat@gmail.com
