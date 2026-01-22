@@ -25,7 +25,7 @@ Talks:
 2025:	Backward Association of Exclusive Particles and Scope Freezing.
 	    Short talk, GLOW 47, Frankfurt& Gottingen [with Ka Fai Yip & Daniel Aremu]
 
-2024:	Exclusive Focus Particles in Yoruba
+2024:	Exclusive Focus Particles in Yoruba [[handout](https://bodeadedeji.github.io/assets/docs/ACAL-55_only_handout.pdf)]
 	    55th Annual Conference of African Linguistics (ACAL), McGill [with Ka Fai Yip]
 
 2019: 	Yorùbá Language Development and Digital Communication: Ability, Capacity, and Capability. 
