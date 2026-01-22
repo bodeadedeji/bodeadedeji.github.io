@@ -8,7 +8,7 @@ This section of the website is under constructions.... apologies....
 
 **Publications**
 
-2024	On the Syntax of Yoruba Splitting Verb Constructions. Opanbata: Journal of African Studies. 
+2024	On the Syntax of Yoruba Splitting Verb Constructions. Opanbata: Journal of African Studies. [[PDF](https://bodeadedeji.github.io/assets/docs/Adedeji_24.pdf)]
 
 2020	Yorùbá Language Development and Digital Communication: Ability, Capacity, and Capability. Unilag Journal of Humanities. 
 
