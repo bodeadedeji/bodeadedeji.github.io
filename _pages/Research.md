@@ -14,7 +14,7 @@ This section of the website is under constructions.... apologies....
 
 **Manuscripts**
 
-A Quantifier-Particle Approach to Exclusive Focus Particles in Yorùbá. ACCEPTED (with minor corrections) in Contemporary African Linguistics: Selected Papers from the 55th Annual Conference on African Linguistics. [[PDF](https://bodeadedeji.github.io/assets/docs/yipAdedeji_24)]
+A Quantifier-Particle Approach to Exclusive Focus Particles in Yorùbá. ACCEPTED (with minor corrections) in Contemporary African Linguistics: Selected Papers from the 55th Annual Conference on African Linguistics. [[PDF](https://bodeadedeji.github.io/assets/docs/yipAdedeji_24.pdf)]
 
 Digitizing Indigenous Languages in Nigeria: A Policy Framework for Inclusive Healthcare and Media Communication. ACCEPTED in Dawn of a New Era: Powering Africa’s Digital Transformation: A Policy Landscape, Durham University
 
