@@ -8,6 +8,9 @@ I am a third-year PhD student in Linguistics at Yale University, where I explore
 I am currently working on my second Qualifying Paper with Prof. Claire Bowern and Prof. Jim Wood. The project examines the tense–aspect–mood (TAM) systems of Yorùbá and Nigerian Pidgin English, with particular attention to the relationship between synthetic and analytic morphological expression. A long-standing view in the literature holds that the relative absence of synthetic morphology in creole TAM systems reflects grammatical simplicity. However, Yorùbá likewise expresses TAM primarily through analytic strategies rather than inflectional morphology, despite being a non-creole language with a rich and well-established grammatical system. This project therefore asks whether the lack of synthetic TAM morphology can genuinely be equated with structural simplicity, or whether analytic systems encode comparable levels of grammatical complexity through different morphosyntactic means. 
 
 
+**UPCOMING TALKS**
+
+
 **Email**: olabode.adedeji@yale.edu/
            bodegreat@gmail.com
 
