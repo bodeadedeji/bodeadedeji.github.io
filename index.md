@@ -11,6 +11,7 @@ classes: wide
 My research focuses on the syntax and semantics of **West African languages**, with a particular interest in the morphosyntax of nominals expressions and the semantics of (in)definiteness, and number marking. Currently, I work primarily on Yorùbá, Igbo and Nigerian Pidgin (Naija).
 
 **Upcoming Talks**
+**2026, May 21-23**-  A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. Accepted- 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
 
 
 **Ongoing**
