@@ -9,8 +9,12 @@ I am currently working on my second Qualifying Paper with Prof. Claire Bowern an
 
 
 **UPCOMING TALKS**
+**2026, April 21-23**- A Covert Atomization Account of Number in Yorùbá Bare Nominals' for a poster presentation at GLOW 48. 
 
-**2026, May 21-23**-  A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. Accepted- 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
+**2026, May 21-23**-  A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. ACAL-57, Buffalo [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+
+**2026, May 21-23**- Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+
 
 **Email**: olabode.adedeji@yale.edu/
            bodegreat@gmail.com
