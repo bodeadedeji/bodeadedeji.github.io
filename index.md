@@ -14,6 +14,7 @@ feature_row:
 
 {% include feature_row %}<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/929554cc-91e0-46ee-ac1a-18dea62cbddc" />
 
+
 **I am a third-year PhD candidate in the Department of Linguistics at Yale University**.
 My research focuses on the syntax and semantics of **West African languages**, with a particular interest in the morphosyntax of nominals expressions and the semantics of (in)definiteness, and number marking. Currently, I work primarily on Yorùbá, Igbo and Nigerian Pidgin (Naija).
 
