@@ -17,6 +17,12 @@ excerpt: "The way a single root scales the heights of syntax and expands into a 
 **I am a third-year PhD candidate in the Department of Linguistics at Yale University**.
 My research focuses on the syntax and semantics of **West African languages**, with a particular interest in the morphosyntax of nominals expressions and the semantics of (in)definiteness, and number marking. Currently, I work primarily on Yorùbá, Igbo and Nigerian Pidgin (Naija).
 
+**Explore by Field:** [Morphosyntax]({{ site.baseurl }}/tags/#morphosyntax){: .btn .btn--primary} 
+[Nominal Semantics]({{ site.baseurl }}/tags/#semantics){: .btn .btn--info} 
+[Icelandic Linguistics]({{ site.baseurl }}/tags/#icelandic){: .btn .btn--success} 
+[Formal Logic]({{ site.baseurl }}/tags/#logic){: .btn .btn--warning}
+
+
 **Upcoming Talks**
 
 **2026, April 21-23**- A Covert Atomization Account of Number in Yorùbá Bare Nominals' for a poster presentation at GLOW48. 
