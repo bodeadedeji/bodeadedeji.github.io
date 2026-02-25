@@ -1,17 +1,16 @@
 ---
 layout: splash
 permalink: /
-title: "Linguistics Research"
-feature_row:
-  - image_path: /assets/images/tree.png
-    alt: "Morphosyntax"
-    title: "Morphosyntax"
-    excerpt: "Analysis of nominal structure."
-    url: "/research/"
-    btn_class: "btn--primary"
-    btn_label: "View"
+title: "Linguistics: Morphosyntax & Semantics"
+header:
+  overlay_image: /assets/images/tree.png
+  overlay_filter: 0.5 # This darkens the image slightly so your title is readable
+  caption: "Structural Analysis of Nominals"
+  actions:
+    - label: "View Research"
+      url: "/research/"
+excerpt: "Investigating the internal structure and semantic composition of the nominal domain."
 ---
-
 {% include feature_row %}<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/929554cc-91e0-46ee-ac1a-18dea62cbddc" />
 
 
