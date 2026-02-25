@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Linguistics: Morphosyntax & Semantics"
+title: "Morphosyntax & Semantics"
 header:
   overlay_image: /assets/images/tree.png
   overlay_filter: 0.5 # This darkens the image slightly so your title is readable
