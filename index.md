@@ -21,7 +21,6 @@ feature_row:
     url: "/publications/"
     btn_label: "Read Papers"
     btn_class: "btn--primary"
-
 <img width="468" height="391" alt="image" src="https://github.com/user-attachments/assets/969356a4-2b58-44b7-bf98-adf7efb7096c" />
 
 ---
