@@ -12,13 +12,18 @@ header:
 excerpt: "The way a single root scales the heights of syntax and expands into a complex web of meaning is a captivating architectural feat of the human mind."
 ---
 
-<div style="background-color: #00356b; color: white; padding: 20px; margin-top: -2em; border-radius: 4px;">
-  <h2 style="color: white; margin: 0;">Upcoming Talks & Presentations</h2>
+<div style="background-color: #00356b; color: white; padding: 25px; margin-top: 10px; border-radius: 8px;">
+  <h2 style="color: white; margin-top: 0; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 10px;">Upcoming Talks</h2>
+  
+  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+    <li style="margin-bottom: 15px;">
+      <span style="color: #a0c4ff;"><i>2026, May 21-23</i></span> — <strong>ACAL-57</strong>: Defending a quantifier-particle approach to Yorùbá exclusives.
+    </li>
+    <li style="margin-bottom: 0;">
+      <span style="color: #a0c4ff;"><i>2026, June 10</i></span> — <strong>LSA Summer Meeting</strong>: Structural Analysis of Nominals.
+    </li>
+  </ul>
 </div>
-
-* <span style="color: #00356b;">*2026, May 21-23*</span> — **ACAL-57**: Defending a quantifier-particle approach to Yorùbá exclusives.
-* <span style="color: #00356b;">*2026, June 10*</span> — **LSA Summer Meeting**: Nominal Extended Projections.
-
   
 {% include feature_row %}<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/929554cc-91e0-46ee-ac1a-18dea62cbddc" />
 
