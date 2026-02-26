@@ -27,7 +27,7 @@ My research focuses on the syntax and semantics of **West African languages**, w
 
 **2026, May 21-23**-  A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. Accepted- 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
 
-**2026, May 21-23**- Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+<span style="color: #00356b;">**2026, May 21-23**</span>— Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
 
 
 
