@@ -1,6 +1,7 @@
 ---
 permalink: /Research/
 title: "Research"
+classes: wide
 ---
 
 <img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/84a3a4b2-045b-4289-9581-134ef47a8d13" />
