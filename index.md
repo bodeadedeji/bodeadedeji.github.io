@@ -12,18 +12,6 @@ header:
 excerpt: "The way a single root scales the heights of syntax and expands into a complex web of meaning is a captivating architectural feat of the human mind."
 ---
 
-<div style="background-color: #00356b; color: white; padding: 25px; margin-top: 10px; border-radius: 8px;">
-  <h2 style="color: white; margin-top: 0; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 10px;">Upcoming Talks</h2>
-  
-  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
-    <li style="margin-bottom: 15px;">
-      <span style="color: #a0c4ff;"><i>2026, May 21-23</i></span> — <strong>ACAL-57</strong>: Defending a quantifier-particle approach to Yorùbá exclusives.
-    </li>
-    <li style="margin-bottom: 0;">
-      <span style="color: #a0c4ff;"><i>2026, June 10</i></span> — <strong>LSA Summer Meeting</strong>: Structural Analysis of Nominals.
-    </li>
-  </ul>
-</div>
   
 {% include feature_row %}<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/929554cc-91e0-46ee-ac1a-18dea62cbddc" />
 
@@ -34,12 +22,26 @@ My research focuses on the syntax and semantics of **West African languages**, w
 **Explore:** [Morphosyntax]({{ site.baseurl }}/tags/#morphosyntax){: .btn .btn--primary} 
 [Nominal Semantics]({{ site.baseurl }}/tags/#semantics){: .btn .btn--info} 
 
+<div style="background-color: #00356b; color: white; padding: 25px; margin-top: 10px; border-radius: 8px;">
+  <h2 style="color: white; margin-top: 0; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 10px;">Upcoming Talks</h2>
+  
+  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+    <li style="margin-bottom: 15px;">
+      <span style="color: #00356b;">**2026, April 21-23**</span>— *A Covert Atomization Account of Number in Yorùbá Bare Nominals* A poster presentation at GLOW48.
+    </li>
+    <li style="margin-bottom: 0;">
+      <span style="color: #00356b;">**2026, May 21-23**</span>—  *A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba* ACAL 57,  Buffalo [with Ka Fai Yip].
+    </li>
+<span style="color: #00356b;">**2026, May 21-23**</span>— *Defending a quantifier-particle approach to Yorùbá exclusives* ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+    </li>
+  </ul>
+</div>
 
 **Upcoming Talks**
 
 <span style="color: #00356b;">**2026, April 21-23**</span>— *A Covert Atomization Account of Number in Yorùbá Bare Nominals* A poster presentation at GLOW48. 
 
-<span style="color: #00356b;">**2026, May 21-23**</span>—  *A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba* 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
+<span style="color: #00356b;">**2026, May 21-23**</span>—  *A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba* ACAL 57,  Buffalo [with Ka Fai Yip]
 
 <span style="color: #00356b;">**2026, May 21-23**</span>— *Defending a quantifier-particle approach to Yorùbá exclusives* ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
 
