@@ -22,7 +22,7 @@ My research focuses on the syntax and semantics of **West African languages**, w
 **Explore:** [Morphosyntax]({{ site.baseurl }}/tags/#morphosyntax){: .btn .btn--primary} 
 [Nominal Semantics]({{ site.baseurl }}/tags/#semantics){: .btn .btn--info} 
 
-<div style="background-color: #00356b; color: white; padding: 25px; margin-top: 10px; border-radius: 8px;">
+<div style="background-color: #1a1a4b; color: white; padding: 25px; margin-top: 10px; border-radius: 8px;">
   <h2 style="color: white; margin-top: 0; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 10px;">Upcoming Talks</h2>
   
   <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
