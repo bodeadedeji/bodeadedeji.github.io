@@ -1,7 +1,16 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# This is the Front Matter - keep the dashes!
 ---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes";
+
+/* This is the Body - the logic for your background */
+body {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 100 100'%3E%3Ctext x='10' y='30' fill='rgba(0,0,0,0.03)' font-size='20' font-family='serif'%3Eλ%3C/text%3E%3Ctext x='60' y='80' fill='rgba(0,0,0,0.02)' font-size='30' font-family='serif'%3E∃%3C/text%3E%3Ctext x='40' y='50' fill='rgba(0,0,0,0.02)' font-size='15' font-family='serif'%3E∀%3C/text%3E%3Ctext x='80' y='20' fill='rgba(0,0,0,0.03)' font-size='25' font-family='serif'%3Eφ%3C/text%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-repeat: repeat;
+}
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
