@@ -7,14 +7,13 @@ classes: wide
 This section of the website is under constructions.... apologies....
 
 **Publications**
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
+<hr style="height: 4px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 2024	On the Syntax of Yoruba Splitting Verb Constructions. Opanbata: Journal of African Studies. [[PDF](https://bodeadedeji.github.io/assets/docs/Adedeji_24.pdf)]
 
 2020	Yorùbá Language Development and Digital Communication: Ability, Capacity, and Capability. Unilag Journal of Humanities. 
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
-
+<hr style="height: 4px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 **Manuscripts**
 <hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
