@@ -9,7 +9,11 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 
 **CULTURAL WORKS**
 - Between 2021-2022, I worked on a project that was funded by the Institute of African and Diaspora Studies (UNILAG). During this project, we focused on Yorùbá traditional means of transportation, especially those used by hunters and warriors. A paper from this project has been published. You can find it here
-[PDF](https://github.com/bodeadedeji/bodeadedeji.github.io/blob/master/assets/docs/Egbe-and-Kanako-pdf.pdf) 
+[PDF](https://github.com/bodeadedeji/bodeadedeji.github.io/blob/master/assets/docs/Egbe-and-Kanako-pdf.pdf)
 
+- From 2020 to 2023, I served as a researcher on a project funded by the Tertiary Education Trust Fund (TETFund) of the Federal Government of Nigeria. Led by Principal Investigators Prof. Ayo Yusuff and Dr. Bisoye Eleshin, the study investigated the role of indigenous oral traditions—specifically folktales and riddles—in pedagogical remodeling and character development. A key output of the extensive fieldwork conducted across South West Nigeria was the adaptation of traditional narratives into 2D animated educational resources.
+
+**Folktales**:
+-  **The Hunchback and his family.**  [2d Cartoon]([http://yourlink.com](https://www.youtube.com/watch?v=4ISTsvQup5Q)){: .btn .btn--info .btn--small}
 
 
