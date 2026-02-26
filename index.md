@@ -23,11 +23,11 @@ My research focuses on the syntax and semantics of **West African languages**, w
 
 **Upcoming Talks**
 
-<span style="color: #00356b;">**2026, April 21-23**</span>— A Covert Atomization Account of Number in Yorùbá Bare Nominals' for a poster presentation at GLOW48. 
+<span style="color: #00356b;">**2026, April 21-23**</span>— *A Covert Atomization Account of Number in Yorùbá Bare Nominals* A poster presentation at GLOW48. 
 
-<span style="color: #00356b;">**2026, May 21-23**</span>—  A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. Accepted- 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
+<span style="color: #00356b;">**2026, May 21-23**</span>—  *A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba* 57th Annual Conference of African Linguistics (ACAL), Buffalo [with Ka Fai Yip]
 
-<span style="color: #00356b;">**2026, May 21-23**</span>— Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+<span style="color: #00356b;">**2026, May 21-23**</span>— *Defending a quantifier-particle approach to Yorùbá exclusives* ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
 
 
 **Ongoing**
