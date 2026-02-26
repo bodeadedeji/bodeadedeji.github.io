@@ -37,14 +37,6 @@ My research focuses on the syntax and semantics of **West African languages**, w
     </li>
   </ul>
 </div>
-**Upcoming Talks**
-
-<span style="color: #00356b;">**2026, April 21-23**</span>— *A Covert Atomization Account of Number in Yorùbá Bare Nominals* A poster presentation at GLOW48. 
-
-<span style="color: #00356b;">**2026, May 21-23**</span>—  *A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba* ACAL 57,  Buffalo [with Ka Fai Yip]
-
-<span style="color: #00356b;">**2026, May 21-23**</span>— *Defending a quantifier-particle approach to Yorùbá exclusives* ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
-
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
 
