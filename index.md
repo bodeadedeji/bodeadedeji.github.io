@@ -8,7 +8,7 @@ header:
   caption: "Structural Analysis of Nominals"
   actions:
     - label: "View Research"
-      url: "/research/"
+      url: "/research.md/"
 excerpt: "The way a single root scales the heights of syntax and expands into a complex web of meaning is a captivating architectural feat of the human mind."
 ---
 {% include feature_row %}<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/929554cc-91e0-46ee-ac1a-18dea62cbddc" />
