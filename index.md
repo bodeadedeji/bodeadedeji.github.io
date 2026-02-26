@@ -27,12 +27,12 @@ My research focuses on the syntax and semantics of **West African languages**, w
   
   <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
     <li style="margin-bottom: 15px;">
-      <span style="color: #00356b;">**2026, April 21-23**</span>— *A Covert Atomization Account of Number in Yorùbá Bare Nominals* A poster presentation at GLOW48.
+      **2026, April 21-23** A Covert Atomization Account of Number in Yorùbá Bare Nominals. A poster presentation at GLOW48.
     </li>
     <li style="margin-bottom: 0;">
-      <span style="color: #00356b;">**2026, May 21-23**</span>—  *A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba* ACAL 57,  Buffalo [with Ka Fai Yip].
+      **2026, May 21-23** A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. ACAL 57,  Buffalo [with Ka Fai Yip].
     </li>
-<span style="color: #00356b;">**2026, May 21-23**</span>— *Defending a quantifier-particle approach to Yorùbá exclusives* ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+      **2026, May 21-23** Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
     </li>
   </ul>
 </div>
