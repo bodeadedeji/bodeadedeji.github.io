@@ -42,9 +42,10 @@ My research focuses on the syntax and semantics of **West African languages**, w
 
 **Ongoing**
 - The Syntax of Degree/Intensifiers in Yorùbá: A First Attempt
-- The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
+- The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*?
+- On the Syntax of the High Tone Syllable in Yorùbá
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
+<hr style="border: 0; border-top: 1.5px solid #eee; margin: 2em 0;">
 
 **2024**
 - On the Syntax of Yorùbá Splitting Verb Constructions (Accepted for publication)
