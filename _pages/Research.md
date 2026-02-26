@@ -11,7 +11,7 @@ This section of the website is under constructions.... apologies....
 2024	On the Syntax of Yoruba Splitting Verb Constructions. Opanbata: Journal of African Studies. [[PDF](https://bodeadedeji.github.io/assets/docs/Adedeji_24.pdf)]
 
 2020	Yorùbá Language Development and Digital Communication: Ability, Capacity, and Capability. Unilag Journal of Humanities. 
-<hr style="height: 3px; background-color: #1a1a4b; border: none; margin: 40px 0;">
+<hr style="height: 2px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 **Manuscripts**
 
@@ -19,7 +19,7 @@ A Quantifier-Particle Approach to Exclusive Focus Particles in Yorùbá. ACCEPTE
 
 Digitizing Indigenous Languages in Nigeria: A Policy Framework for Inclusive Healthcare and Media Communication. ACCEPTED in Dawn of a New Era: Powering Africa’s Digital Transformation: A Policy Landscape, Durham University
 
-<hr style="height: 3px; background-color: #1a1a4b; border: none; margin: 40px 0;">
+<hr style="height: 2px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 **Presentations**
 
