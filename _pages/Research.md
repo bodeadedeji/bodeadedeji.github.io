@@ -1,8 +1,11 @@
 ---
-permalink: /Research/
+layout: single
 title: "Research"
-classes: wide
+permalink: /research/
+sidebar:
+  nav: "main"
 ---
+
 
 This section of the website is under constructions.... apologies....
 
