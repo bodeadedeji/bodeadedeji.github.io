@@ -22,11 +22,12 @@ My research focuses on the syntax and semantics of **West African languages**, w
 **Explore:** [Morphosyntax]({{ site.baseurl }}/tags/#morphosyntax){: .btn .btn--primary} 
 [Nominal Semantics]({{ site.baseurl }}/tags/#semantics){: .btn .btn--info} 
 
-<div style="background-color: #1a1a4b; color: white; padding: 25px; margin-top: 10px; border-radius: 8px;">
-  <h2 style="color: white; margin-top: 0; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 10px;">Upcoming Talks</h2>
+
+<div style="background-color: rgba(26, 26, 75, 0.05); color: #1a1a4b; padding: 20px; margin-top: 30px; border-radius: 4px; border-left: 5px solid #1a1a4b;">
+  <h3 style="margin-top: 0; color: #1a1a4b; text-transform: uppercase; font-size: 0.9em; letter-spacing: 1px;">Upcoming Talks</h3>
   
-  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
-    <li style="margin-bottom: 15px;">
+  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0; font-size: 0.95em;">
+    <li style="margin-bottom: 10px;">
       **2026, April 21-23** A Covert Atomization Account of Number in Yorùbá Bare Nominals. A poster presentation at GLOW48.
     </li>
     <li style="margin-bottom: 0;">
@@ -36,7 +37,6 @@ My research focuses on the syntax and semantics of **West African languages**, w
     </li>
   </ul>
 </div>
-
 **Upcoming Talks**
 
 <span style="color: #00356b;">**2026, April 21-23**</span>— *A Covert Atomization Account of Number in Yorùbá Bare Nominals* A poster presentation at GLOW48. 
