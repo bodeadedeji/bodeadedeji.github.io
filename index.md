@@ -5,7 +5,7 @@ title: "Morphosyntax & Semantics"
 header:
   overlay_image: /assets/images/tree.png
   overlay_filter: 0.5 # This darkens the image slightly so your title is readable
-  caption: "Structural Analysis of Nominals"
+  caption: "Nominals, Numbr marking, Plurals, Analytic TAM"
   actions:
     - label: "View Research"
       url: "/Research.md/"
