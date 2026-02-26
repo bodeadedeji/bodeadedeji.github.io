@@ -30,15 +30,10 @@ My research focuses on the syntax and semantics of **West African languages**, w
 <span style="color: #00356b;">**2026, May 21-23**</span>— Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
 
 
-
 **Ongoing**
 - The Syntax of Degree/Intensifiers in Yorùbá: A First Attempt
-- Are splitting verbs in Yorùbá discontinuous heads? Poster @ [ACAL -56] *with* [Ka Fai Yip](https://kafai-yip.github.io/)
-- Definiteness and the Yorùbá Bare Noun
 - The Semantics of *kan* in Yorùbá: *Indefinite* or *Specificity*? 
   
-**What's New**
-- Backward Association of Exclusive Particles and Scope Freezing (*with* [Ka Fai Yip](https://kafai-yip.github.io/) & Daniel Aremu)
 
 **2024**
 - On the Syntax of Yorùbá Splitting Verb Constructions (Accepted for publication)
