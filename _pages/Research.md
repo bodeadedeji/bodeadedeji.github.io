@@ -6,7 +6,7 @@ classes: wide
 
 This section of the website is under constructions.... apologies....
 
-#Publications
+**Publications**
 
 2024	On the Syntax of Yoruba Splitting Verb Constructions. Opanbata: Journal of African Studies. [[PDF](https://bodeadedeji.github.io/assets/docs/Adedeji_24.pdf)]
 
