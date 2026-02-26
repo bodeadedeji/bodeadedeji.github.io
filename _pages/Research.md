@@ -16,19 +16,18 @@ This section of the website is under constructions.... apologies....
 <hr style="height: 4px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 **Manuscripts**
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
+<hr style="height: 4px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 A Quantifier-Particle Approach to Exclusive Focus Particles in Yorùbá. ACCEPTED (with minor corrections) in Contemporary African Linguistics: Selected Papers from the 55th Annual Conference on African Linguistics. [[PDF](https://bodeadedeji.github.io/assets/docs/yipAdedeji_24.pdf)]
 
 Digitizing Indigenous Languages in Nigeria: A Policy Framework for Inclusive Healthcare and Media Communication. ACCEPTED in Dawn of a New Era: Powering Africa’s Digital Transformation: A Policy Landscape, Durham University
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
+<hr style="height: 4px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
 **Presentations**
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
+<hr style="height: 4px; background-color: #1a1a4b; border: none; margin: 40px 0;">
 
-Talks:
-<hr style="border: 0; border-top: 1px solid #eee; margin: 2em 0;">
+*Talks*:
 
 2025:	Backward Association of Exclusive Particles and Scope Freezing.
 	    Short talk, GLOW 47, Frankfurt& Gottingen [with Ka Fai Yip & Daniel Aremu] [[handout](https://bodeadedeji.github.io/assets/docs/GLOW-47_handout.pdf)]
