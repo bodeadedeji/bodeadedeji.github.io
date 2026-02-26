@@ -1,1 +1,16 @@
-
+main:
+  - title: "Research Areas"
+    children:
+      - title: "Semantics"
+        url: "#semantics"
+        children:
+          - title: "Nominals"
+            url: "#nominals"
+      - title: "Morphosyntax"
+        url: "#morphosyntax"
+      - title: "Yorùbá"
+        url: "#yoruba"
+      - title: "NPE"
+        url: "#npe"
+      - title: "Igbo"
+        url: "#igbo"
