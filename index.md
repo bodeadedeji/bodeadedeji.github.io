@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Morphosyntax & Semantics"
+title: "Bode Adedeji"
 header:
   overlay_image: /assets/images/tree.png
   overlay_filter: 0.5 # This darkens the image slightly so your title is readable
