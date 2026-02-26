@@ -71,34 +71,3 @@ html {
       font-size: 18px; // change to whatever
     }
   }
-
-
-
-
-.sidebar {
-  .nav__list {
-    background: transparent;
-    .nav__items {
-      li {
-        background: rgba(26, 26, 75, 0.05); /* Faint indigo to match your index */
-        margin-bottom: 10px;
-        padding: 10px;
-        border-radius: 8px;
-        border-right: 4px solid #1a1a4b; /* Indigo accent on the right */
-        
-        a {
-          font-weight: bold;
-          color: #1a1a4b;
-        }
-        
-        /* Sub-items (like Nominals) */
-        ul li {
-          background: white;
-          border: 1px solid #eee;
-          margin-top: 5px;
-          font-size: 0.8em;
-        }
-      }
-    }
-  }
-}
