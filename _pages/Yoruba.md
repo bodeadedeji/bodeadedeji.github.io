@@ -18,5 +18,9 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 
 - **The Tortoise, the dog and the farmer.** [2d Cartoon](https://www.youtube.com/watch?v=RQpbZ26zews){: .btn .btn--info .btn--small}
 
-- **The Tortoise, and the Herbalist.** [2d Cartoon](https://www.youtube.com/watch?v=Vdl78nayJro){: .btn .btn--info .btn--small}
+- **The Tortoise and the Herbalist.** [2d Cartoon](https://www.youtube.com/watch?v=Vdl78nayJro){: .btn .btn--info .btn--small}
+
+- **The Tortoise and the dog.** [2d Cartoon](https://www.youtube.com/watch?v=6Uy3jA-vE-A){: .btn .btn--info .btn--small}
+
+- **The Crab and the Patridge.** [2d Cartoon](https://www.youtube.com/watch?v=Gz7xv2hL6oI){: .btn .btn--info .btn--small}
 
