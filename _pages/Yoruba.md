@@ -9,9 +9,9 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 
 **CULTURAL WORKS**
 - Between 2021-2022, I worked on a project that was funded by the Institute of African and Diaspora Studies (UNILAG). During this project, we focused on Yorùbá traditional means of transportation, especially those used by hunters and warriors. A paper from this project has been published. You can find it here
-[PDF](https://github.com/bodeadedeji/bodeadedeji.github.io/blob/master/assets/docs/Egbe-and-Kanako-pdf.pdf)
+[PDF]
 
-- From 2020 to 2023, I served as a researcher on a project funded by the Tertiary Education Trust Fund (TETFund) of the Federal Government of Nigeria. Led by Principal Investigators Prof. Ayo Yusuff and Dr. Bisoye Eleshin, the study investigated the role of indigenous oral traditions—specifically folktales and riddles—in pedagogical remodeling and character development. A key output of the extensive fieldwork conducted across South West Nigeria was the adaptation of traditional narratives into 2D animated educational resources.
+- From 2019 to 2021, I served as a researcher on a project funded by the Africa Multiple Center and the Institute of African and Diaspora Studies, University of Lagos, Nigeria. Led by Principal Investigators Prof. Ayo Yusuff and Dr. Bisoye Eleshin, the study investigated the role of indigenous oral traditions, specifically folktales and riddles in in teaching. I was a part of research assistants conducting fieldworks across South West Nigeria where we gathered folktales and riddles and also interviewed narrators in the interior parts of Yorùbáland where the culture of folktales and riddles as a means of knowledge and entertainment is still practiced. Some of the folktales have been adapted into 2D animated educational resources. I have made some available below.
 
 **Folktales**:
 - **The Hunchback and his family.**  [2d Cartoon](https://www.youtube.com/watch?v=4ISTsvQup5Q){: .btn .btn--info .btn--small}
@@ -23,4 +23,21 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 - **The Tortoise and the dog.** [2d Cartoon](https://www.youtube.com/watch?v=6Uy3jA-vE-A){: .btn .btn--info .btn--small}
 
 - **The Crab and the Patridge.** [2d Cartoon](https://www.youtube.com/watch?v=Gz7xv2hL6oI){: .btn .btn--info .btn--small}
+
+
+
+- From 2020 to 2023, I served as a researcher on a project funded by the Tertiary Education Trust Fund (TETFund) of the Federal Government of Nigeria. Led by Principal Investigators Prof. Ayo Yusuff and Dr. Akinmayowa Akin-Otiko, the study also investigated folktales and riddles in pedagogy, modeling and remodeling and character development. A key output of the extensive fieldwork conducted across South West Nigeria was the adaptation of traditional narratives into a mix of animated and human short videos for educational purposes.
+
+**Folktales**:
+- **The king and his four daugthers.**  [2d Cartoon](https://www.youtube.com/watch?v=cPx1Nj-mjcw)
+
+- **The Tortoise, the dog and the farmer.** [2d Cartoon](https://www.youtube.com/watch?v=RQpbZ26zews)
+
+- **The Tortoise and the Herbalist.** [2d Cartoon](https://www.youtube.com/watch?v=Vdl78nayJro)
+
+- **The Tortoise and the dog.** [2d Cartoon](https://www.youtube.com/watch?v=6Uy3jA-vE-A)
+
+- **The Crab and the Patridge.** [2d Cartoon](https://www.youtube.com/watch?v=Gz7xv2hL6oI)
+
+
 
