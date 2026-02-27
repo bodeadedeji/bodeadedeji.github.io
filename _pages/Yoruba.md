@@ -31,13 +31,13 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 **Folktales**:
 - **The king and his four daugthers.**  [2d Cartoon](https://www.youtube.com/watch?v=cPx1Nj-mjcw)
 
-- **The Tortoise, the dog and the farmer.** [2d Cartoon](https://www.youtube.com/watch?v=RQpbZ26zews)
+- **The fable of the falling monkey.** [2d Cartoon](https://www.youtube.com/watch?v=4IvI5FnlrVQ)
 
-- **The Tortoise and the Herbalist.** [2d Cartoon](https://www.youtube.com/watch?v=Vdl78nayJro)
+- **Kin in kin.** [2d Cartoon](https://www.youtube.com/watch?v=fK950INuzHY)
 
-- **The Tortoise and the dog.** [2d Cartoon](https://www.youtube.com/watch?v=6Uy3jA-vE-A)
+- **The three disabled hunter.** [2d Cartoon](https://www.youtube.com/watch?v=HrzV7jpBgs4)
 
-- **The Crab and the Patridge.** [2d Cartoon](https://www.youtube.com/watch?v=Gz7xv2hL6oI)
+- **The Crafty dog and the chicken.** [2d Cartoon](https://www.youtube.com/watch?v=XLFvR1llWwM)
 
 
 
