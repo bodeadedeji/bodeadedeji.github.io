@@ -2,15 +2,15 @@
 title: "Yoruba Culture"
 layout: single
 feature_row:
-  - image_path: /assets/images/iyaalu.jpg
+  - image_path: /assets/images/iyaalu.png
     alt: "iyaalu"
     title: "Musical Heritage"
     excerpt: "The Gangan, or talking drum, mimics the tonality of the Yoruba language."
-  - image_path: /assets/images/adire.jpg
+  - image_path: /assets/images/adire.png
     alt: "Adire Textile"
     title: "Traditional Attire"
     excerpt: "Exploring the intricate indigo-dyed patterns of Adire cloth."
-  - image_path: /assets/images/sekere.jpg
+  - image_path: /assets/images/sekere.png
     alt: "Oyo Royal Sound"
     title: "Emblem of an Empire"
     excerpt: "Oyo."
