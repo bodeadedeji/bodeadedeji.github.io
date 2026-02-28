@@ -27,6 +27,7 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 [PDF]
 
 -- 2019 - 2021-- 
+
 From 2019 to 2021, I served as a researcher on a project funded by the Africa Multiple Center and the Institute of African and Diaspora Studies, University of Lagos, Nigeria. Led by Principal Investigators Prof. Ayo Yusuff and Dr. Bisoye Eleshin, the study investigated the role of indigenous oral traditions, specifically folktales and riddles in in teaching. I was a part of research assistants conducting fieldworks across South West Nigeria where we gathered folktales and riddles and also interviewed narrators in the interior parts of Yorùbáland where the culture of folktales and riddles as a means of knowledge and entertainment is still practiced. Some of the folktales have been adapted into 2D animated educational resources. I have made some available below.
 
 **Folktales**:
@@ -42,6 +43,7 @@ From 2019 to 2021, I served as a researcher on a project funded by the Africa Mu
 
 
 -- 2020 - 2023--
+
 From 2020 to 2023, I served as a researcher on a project funded by the Tertiary Education Trust Fund (TETFund) of the Federal Government of Nigeria. Led by Principal Investigators Prof. Ayo Yusuff and Dr. Akinmayowa Akin-Otiko, the study also investigated folktales and riddles in pedagogy, modeling and remodeling and character development. A key output of the extensive fieldwork conducted across South West Nigeria was the adaptation of traditional narratives into a mix of animated and human short videos for educational purposes.
 
 **Folktales**:
