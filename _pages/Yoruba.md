@@ -26,7 +26,7 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 
 -- 2021 - 2022 --
 
-- Between 2021-2022, I worked on a project that was funded by the Institute of African and Diaspora Studies (UNILAG). During this project, we focused on Yorùbá traditional means of transportation, especially those used by hunters and warriors. A paper from this project has been published. You can find it here [[PDF](https://bodeadedeji.github.io/assets/docs/Egbe Kanako.pdf)]
+- Between 2021-2022, I worked on a project that was funded by the Institute of African and Diaspora Studies (UNILAG). During this project, we focused on Yorùbá traditional means of transportation, especially those used by hunters and warriors. A paper from this project has been published. You can find it here [[PDF](https://bodeadedeji.github.io/assets/docs/Egbe_kanako.pdf)]
 
 
 -- 2019 - 2021-- 
