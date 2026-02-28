@@ -39,5 +39,11 @@ I am a member of the Yorùbá Studies Association of Nigeria (YSAN) and the Ling
 
 - **The Crafty dog and the chicken.** [2d Cartoon](https://www.youtube.com/watch?v=XLFvR1llWwM)
 
+- **The Tortoise and the Dog Steal Tubers of Yam.** [2d Cartoon](https://www.youtube.com/watch?v=yhJzeaxciHg)
+
+- **The Orphan and the Stepmom.** [2d Cartoon](https://www.youtube.com/watch?v=6poY5v9LojU)
+
+- **Olúrónbí.** [2d Cartoon](https://www.youtube.com/watch?v=nLnQ4cTIIfc)
+
 
 
