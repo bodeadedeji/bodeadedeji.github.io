@@ -1,4 +1,7 @@
 ---
+permalink: /Yoruba/
+title: "Yoruba"
+classes: wide
 title: "Yoruba"
 layout: single
 gallery:
