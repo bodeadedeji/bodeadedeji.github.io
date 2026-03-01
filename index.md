@@ -32,7 +32,6 @@ My research focuses on the syntax and semantics of *West African languages*, wit
       **2026, May 21-23** A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. ACAL 57,  Buffalo [with Ka Fai Yip].
     </li>
       **2026, May 21-23** Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with Ka Fai Yip]
-    
     </li>
   </ul>
 </div>
