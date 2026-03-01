@@ -12,8 +12,7 @@ header:
 excerpt: "The way a single root scales the heights of syntax and expands into a complex web of meaning is a captivating architectural feat of the human mind."
 ---
 
-{% include feature_row %}<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/929554cc-91e0-46ee-ac1a-18dea62cbddc" />
-
+{% include feature_row %}
 
 I am a third-year PhD candidate in the **Department of Linguistics at Yale University**.
 My research focuses on the syntax and semantics of *West African languages*, with a particular interest in the morphosyntax and semantics of nominals expressions ((in)definiteness, number marking), and analytic TAM systems. Currently, I work primarily on Yorùbá, Igbo and Nigerian Pidgin English (NPE).
@@ -32,7 +31,7 @@ My research focuses on the syntax and semantics of *West African languages*, wit
     <li style="margin-bottom: 0;">
       **2026, May 21-23** A Partial Copy Deletion Account of Non-Agreeing Resumptive Pronouns in Yoruba. ACAL 57,  Buffalo [with Ka Fai Yip].
     </li>
-      **2026, May 21-23** Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with [Ka Fai Yip](https://kafai-yip.github.io/)]
+      **2026, May 21-23** Defending a quantifier-particle approach to Yorùbá exclusives. ACAL-57, Buffalo. [with Ka Fai Yip]
     </li>
   </ul>
 </div>
